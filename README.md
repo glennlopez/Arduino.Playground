@@ -1,2 +1,2 @@
 # Arduino.Playground
-Repository for the fun stuff I do with Arduino
+Repository for all the things I test with Arduino
